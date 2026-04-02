@@ -79,6 +79,6 @@ SELECT
 
     retained_90,
     ROUND(100.0 * retained_90 / cohort_size, 2) AS retention_90_pct
-
+#hi
 FROM retention
 ORDER BY cohort_month;

@@ -175,4 +175,4 @@ The business shows strong growth and improving retention, but is highly dependen
 Future success depends on:
 - Strengthening early customer retention
 - Expanding category diversity
-- Managing seasonal fluctuations
+- Managing seasonal fluctuation
