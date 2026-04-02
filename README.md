@@ -75,3 +75,104 @@ This stretch produces a strong portfolio piece. A polished executive report back
 This repository is provided for educational use only. See [LICENSE](LICENSE) for terms.
 
 You may clone and modify this repository for personal learning and practice, and reference code you wrote here in your professional portfolio. Redistribution outside this course is not permitted.
+# Executive Report — Time-Series Analytics
+
+## 1. Revenue Trends
+
+Over the 12-month period, revenue shows a strong upward trend with significant acceleration in the second half of 2025.
+
+- Revenue grew consistently from April to December 2025.
+- The largest growth occurred between Q3 and Q4:
+  - QoQ growth: +141.33%
+- A sharp decline occurred in January 2026:
+  - MoM revenue: -57.31%
+- The business quickly recovered:
+  - March 2026 growth: +62.11%
+
+Daily trends confirm this:
+- Early period daily revenue: ~5k–10k
+- Late period daily revenue: ~30k–60k
+- 7-day moving average increased from ~6.8k to ~48k
+
+Key Insight:
+Growth is strong and sustained, with a clear seasonal spike followed by a temporary drop and rapid recovery.
+
+---
+
+## 2. Customer Retention
+
+Cohort analysis reveals clear differences across customer groups:
+
+- Early cohorts (mid-2025):
+  - 30-day retention ~35%–50%
+  - 90-day retention ~70%–82%
+- Later cohorts (2026):
+  - 30-day retention up to ~92%
+  - 90-day retention up to ~98%
+
+Key Insight:
+Retention improves significantly over time, suggesting:
+- Better onboarding
+- Stronger product-market fit
+- Improved customer experience
+
+However:
+Retention drops quickly within the first 30 days in early cohorts.
+
+---
+
+## 3. Category Performance
+
+Revenue is heavily concentrated in one category:
+
+- Electronics dominates daily revenue:
+  - Often contributes 60%–65% of total revenue
+- Other categories:
+  - Home & Kitchen: ~11%–13%
+  - Sports: ~9%–18%
+  - Clothing: ~8%–12%
+  - Health & Beauty: ~2%–4%
+  - Books: <2%
+
+Moving averages show:
+- Electronics drives overall revenue trends
+- Other categories remain relatively stable
+
+Key Insight:
+The business is highly dependent on Electronics, creating both strength and risk.
+
+---
+
+## 4. Recommendations
+
+Based on the analysis:
+
+### 1. Improve Early Retention
+- Focus on the first 30 days
+- Introduce onboarding flows and follow-up campaigns
+- Target users who don’t return quickly
+
+### 2. Diversify Revenue Streams
+- Reduce reliance on Electronics
+- Invest in growing categories like:
+  - Home & Kitchen
+  - Sports
+
+### 3. Analyze Seasonality
+- Investigate Q4 growth drivers (likely promotions)
+- Replicate successful campaigns
+
+### 4. Stabilize Revenue Volatility
+- Prepare for post-peak drops (e.g., January)
+- Use moving averages to plan inventory and marketing
+
+---
+
+## Conclusion
+
+The business shows strong growth and improving retention, but is highly dependent on a single category.
+
+Future success depends on:
+- Strengthening early customer retention
+- Expanding category diversity
+- Managing seasonal fluctuations
